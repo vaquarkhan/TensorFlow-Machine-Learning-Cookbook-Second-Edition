@@ -76,3 +76,8 @@ He has a passion for learning and advocating for analytics, machine learning, an
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+
+# Book
+https://github.com/IsaacChanghau/DL-NLP-Readings/blob/master/Papers/Books/ML%20DL%20Coding/Python/Tensorflow%20Machine%20Learning%20Cookbook.pdf
+
